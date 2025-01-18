@@ -1,0 +1,32 @@
+# Translation of Plugins - Arabic-Indic Numerals for Arabic WordPress - Development (trunk) in Arabic
+# This file is distributed under the same license as the Plugins - Arabic-Indic Numerals for Arabic WordPress - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-04 21:22:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - Arabic-Indic Numerals for Arabic WordPress - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "https://abuyasmeen.com/"
+msgstr "https://abuyasmeen.com/"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/jvarn/arabic-indic-numerals-for-arabic-wp"
+msgstr "https://github.com/jvarn/arabic-indic-numerals-for-arabic-wp"
+
+#. Description of the plugin
+msgid "Converts numbers in dates into Arabic-Indic numerals"
+msgstr "يحول الأرقام العربية في التواريخ إلى أرقام هندية"
+
+#. Plugin Name of the plugin
+msgid "Arabic-Indic Numerals for Arabic Wordpress"
+msgstr "أرقام هندية لووردبريس عربي"
+
+#. Author of the plugin
+msgid "Jeremy Varnham"
+msgstr "Jeremy Varnham"
